@@ -11,3 +11,5 @@ Above script will start GraphQl server and link it with `/api` path of express s
 Now you can start testing your GraphQl implementation - `http://localhost:5000/api`.
 
 ![Demo](public/demo.gif)
+
+Author: [Chirag Goel](http://www.chirag-goel.in)
