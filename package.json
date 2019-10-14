@@ -1,0 +1,31 @@
+{
+  "name": "apollo-graphql-express-setup",
+  "version": "1.0.0",
+  "description": "Express integration with apollo graphql server",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js  --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chirag-goel/apollo-graphql-express-setup.git"
+  },
+  "keywords": [
+    "Apollo",
+    "GraphQl",
+    "Express",
+    "Server"
+  ],
+  "author": "Chirag Goel (www.chirag-goel.in)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chirag-goel/apollo-graphql-express-setup/issues"
+  },
+  "homepage": "https://github.com/chirag-goel/apollo-graphql-express-setup#readme",
+  "dependencies": {
+    "apollo-server-express": "2.9.6",
+    "express": "4.17.1",
+    "nodemon": "1.19.3"
+  }
+}
