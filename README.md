@@ -1,3 +1,3 @@
 # apollo-graphql-express-setup
 Express Integration With Apollo GraphQl Server
-![Demo](public/demo.dif)
+![Demo](public/demo.gif)
