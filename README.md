@@ -2,7 +2,7 @@
 
 This is the Express integration of GraphQL Server. Apollo Server is a community-maintained open-source GraphQL server that works with many Node.js HTTP server frameworks. [Read the docs](https://www.apollographql.com/docs/apollo-server/)
 
-## Start server
+### Start server
 ```shell
 npm start
 ```
