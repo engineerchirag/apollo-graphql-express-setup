@@ -11,7 +11,7 @@
 			"return commitMessage === branchName;"
 		],
 		"Branch name must start with 'ft-' or 'ch-' or 'bug-' followed by stuff": {
-			"script": "/^((feature-)|(chore-)|(bug-))[a-z0-9\-]+$/.test(branch.name)",
+			"script": "/^((feature-)|(chore-)|(bug-))[a-z0-9-]+$/.test(branch.name)",
 			"message": "The name of this branch doesn't meet the specified criteria"
 		},
 		"Only Chirag can edit the .githint.json file": {
